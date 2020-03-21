@@ -1,0 +1,23 @@
+{
+  "name": "essentiel-nodejs",
+  "version": "1.0.0",
+  "description": "My first module tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmedragh/module-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmedragh/module-node/issues"
+  },
+  "homepage": "https://github.com/davidmedragh/module-node#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

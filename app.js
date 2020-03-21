@@ -1,0 +1,5 @@
+const name = require('./module')
+const http = require('http')
+require('dotenv').config()
+console.log('bonjour'+ name)
+console.log(process.env.NODE_ENV)
